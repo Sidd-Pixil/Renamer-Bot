@@ -18,7 +18,7 @@ listed=[Real_Admin]
 tasks=[]
 #######################################
 async def unlisted(event):
-    await event.reply("Don't try to touch my master's property, fool. If you wish to use me, [fork here](https://github.com/Wolfy024/Renamer-Bot) and give the repo a star.")
+    await event.reply("https://telegra.ph/file/93c2e8831b28dca560189.mp4")
     
     
 @C.on(events.NewMessage(pattern="/add",from_users=Real_Admin))
